@@ -3,12 +3,11 @@ Welcome to the yuxv1 Installer and Uninstaller repository!
 
 # About
 yuxv1 is a specialized installer designed to integrate a "crack" into FL64, providing access to premium features without the need for a valid license. Additionally, the package includes an uninstaller to cleanly remove the modifications made by yuxv1.
-check our home page!:
 
 # Features
-Installer: Easily inject the crack into FL64, unlocking premium features and functionalities. The installer automates the process, making it simple and straightforward.
-Uninstaller: Need to revert the changes made by yuxv1? The uninstaller removes the crack and restores FL64 to its original state, ensuring no traces are left behind.
-Why yuxv1?
+**Installer:** Easily inject the crack into FL64, unlocking premium features and functionalities. The installer automates the process, making it simple and straightforward.
+**Uninstaller:** Need to revert the changes made by yuxv1? The uninstaller removes the crack and restores FL64 to its original state, ensuring no traces are left behind.
+**Why yuxv1?**
 yuxv1 offers users a hassle-free solution to access premium FL64 features without the constraints of a paid license. Here's why you should consider using yuxv1:
 
 **Free Access:**
