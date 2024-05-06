@@ -9,7 +9,6 @@ yuxv1 is a specialized installer designed to integrate a "crack" into FL64, prov
 
 # Installation
 https://drive.google.com/drive/folders/10ZBzU9geexrFV4l0D4bSxxklSpnzKDhA?usp=drive_link
-https://drive.google.com/drive/folders/1aowGk1qdw-I4PUxbWkqBUuGfcrvi9sWk?usp=sharing
 
 
 # Features
